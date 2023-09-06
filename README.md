@@ -1,5 +1,4 @@
 # Design-Project-Research-Paper
-..
 
 **1. Deep learning for terrain recognition**
 <br/>
