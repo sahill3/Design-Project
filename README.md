@@ -28,3 +28,4 @@ https://www.researchgate.net/publication/287060269_Comparative_research_of_AR_an
 https://www.mdpi.com/2076-3417/13/8/4649#:~:text=For%20phishing%20domain%20detection%2C%20machine,an%20ML%2Dbased%20detection%20model
 
 **7. Coffee Shop People behavior monitoring using opencv**
+
